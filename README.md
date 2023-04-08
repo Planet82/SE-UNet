@@ -26,3 +26,6 @@ Test_Images/t_11.jpg
 3、运行get_miou.py即可获得miou大小。  
 
 ###由于部分文件过大，我将上传到百度网盘中
+预训练权重
+链接：https://pan.baidu.com/s/1m_JJFL0IbxzISwN81Ve3Eg 
+提取码：xdlz
