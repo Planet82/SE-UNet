@@ -11,7 +11,7 @@ torchvision==0.4.0
 4、运行train.py即可开始训练。  
 
 ### 预测步骤
-#### 二、使用自己训练的权重
+#### 使用自己训练的权重
 1. 按照训练步骤训练。    
 2. 在unet.py文件里面，在如下部分修改model_path、backbone和num_classes使其对应训练好的文件；**model_path对应logs文件夹下面的权值文件**。    
 3. 运行predict.py，输入    
