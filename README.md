@@ -25,3 +25,4 @@ Test_Images/t_11.jpg
 2、设置get_miou.py里面的name_classes为需要去区分的类别。  
 3、运行get_miou.py即可获得miou大小。  
 
+###由于部分文件过大，我将上传到百度网盘中
